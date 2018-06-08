@@ -1,0 +1,14 @@
+<!DOCTYPE hmtl>
+<head></head>
+<meta></meta>
+<body> <h1>New project HTML</h1><br>
+<p>This is my first html paragraph in github, I am going to be running this in GitKraken. 
+This should be fun! We will see home much I have really learned when I start applying all this code anfd 
+start developing with groups. </p>
+
+
+
+
+
+
+</body>
