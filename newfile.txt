@@ -1,5 +1,5 @@
 <!DOCTYPE hmtl>
-<head></head>
+<html><head></head>
 <meta></meta>
 <body> <h1>New project HTML</h1><br>
 <p>This is my first html paragraph in github, I am going to be running this in GitKraken. 
@@ -12,3 +12,4 @@ start developing with groups. </p>
 
 
 </body>
+</html>
